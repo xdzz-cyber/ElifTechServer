@@ -3,7 +3,7 @@ To run app locally do the following:
 1) Git clone repo;
 2) Put your db connection into .env file
 3) Run server (switch to server folder and run "npm run dev" from command line)
-4) Open the app on the specified ports (may be different to mine, so check the output from server and ui)
+4) Open the app on the specified ports (may be different to mine, so check the output from server)
 
 To run the deployed version do the following:
 1) Open the project via link: https://eliftechfront.herokuapp.com/shops
