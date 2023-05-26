@@ -1,5 +1,5 @@
 # ElifTechServer (middle level of task)
-To run app do the following:
+To run app locally do the following:
 1) Git clone repo;
 2) Put your db connection into .env file
 3) Run server (switch to server folder and run "npm run dev" from command line)
