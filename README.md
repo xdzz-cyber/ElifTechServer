@@ -11,4 +11,4 @@ To run the deployed version do the following:
 2) Now you're watching at main page which is Shops. Here you can select only one shop to order goods
 3) Once you've added goods, go to Cart page via link in header
 4) Fill in the form with appropriate data, change count of items or delete them if needed
-5) Submit form and get yuor response
+5) Submit form and get your response
